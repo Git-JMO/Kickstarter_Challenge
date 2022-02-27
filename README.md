@@ -17,6 +17,7 @@ Since Louise's Kickstarter Campaign was specifically in the "Play" subcategory, 
 ![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
+As mentioned above, although there were no challenges or difficulties encountered while conducting this analysis, it can be very easy to get caught up in the numbers, specifically calcuations, application of proper formulas, and chart presentation. All this factors can distract from the   
 
 ## Results
 
