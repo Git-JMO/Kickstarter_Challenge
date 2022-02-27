@@ -25,9 +25,9 @@ As mentioned above, although there were no challenges or difficulties encountere
 
 - Separately, regarding outcomes vs Goals for the "Plays" subcategory, we can conclude that maintaing pledge goals from 35000 to 44999 would be ideal in order to ensure a successful outcome. Additionally, any goal between 25000 to 29999 and past 45000 is to be avoided. However, due to only one project being in the 45000 to 49999 range, we need more data to make a definite determiniation.  
 
-- Of note, there are certainly limitations in the dataset. One main limitation is recency. The data is approximately 5 years old which may not present a clear present picture. Using 5 year old data can cause errors when trying to forecast future success. which  musical and spaces subcategory comparison, percentages
+- Of note, there are certainly limitations in the dataset. One main limitation is recency. The data is approximately 5 years old which may not present a clear present picture. Using 5 year old data can cause errors when trying to forecast future success.
 
-- Finally, there are undoubtedly additional charts we could have created. As mentioned previously, we could have demonstrated the percentages of success for Theater kickstarter campaigns. Additionally, one chart that would have been beneficial is a chart comparing Plays to the two other Theater subcategories which were "musical" and "spaces" as this would have determined which subcategory was more successful. See below excel file for the full spreadsheeet. 
+- Finally, there are undoubtedly additional charts we could have created. As mentioned previously, we could have analyzed and visually depicted the percentages of success for Theater kickstarter campaigns. Additionally, one chart that would have been beneficial is a chart comparing Plays to the two other Theater subcategories which were "musical" and "spaces" as this would have determined which subcategory was more successful. See below excel file for the full spreadsheeet. 
 
 
 [Kickstarter_Challenge_copy](Kickstarter_Challenge_copy.xlsx)
