@@ -29,9 +29,7 @@ As mentioned above, although there were no challenges or difficulties encountere
 
 - Finally, there are undoubtedly additional charts we could have created. As mentioned previously, we could have demonstrated the percentages of success for Theater kickstarter campaigns. Additionally, one chart that would have been beneficial is a chart comparing Plays to the two other Theater subcategories which were "musical" and "spaces" as this would have determined which subcategory was more successful. See below excel file for the full spreadsheeet. 
 
-![image](https://user-images.githubusercontent.com/82234968/155893619-865e2588-add6-48c6-b796-2490869f6a6b.png)
 
-
-[filename](path/to/filename.xlxs)
+[Kickstarter_Challenge_copy](Kickstarter_Challenge_copy.xlsx)
 
 
