@@ -9,8 +9,7 @@ In order to provide Louise a measured explanation, an analysis of Theatre kickst
 
 ### Analysis of Outcomes Based on Launch Date
 Since Launch date may have been a critical factor in determining success or failure for Theatre Kickstarters, an analysis was conducted on outcomes based on Launch Date. Moreover, using data from 2012 to 2017, the grand total for success, failure, and cancelations was calculated for each month in order to determine which month was more favorable for launching Theater Kickstarters and vice versa. As seen in the below line chart, the month of May had the highest amounth of successful Theatre Kickstarer Launches (111) when compared to the other months. However, May also accounted for the most amount of failures (54).   
-
-
+![image_name](path/to/image_name.png)
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
