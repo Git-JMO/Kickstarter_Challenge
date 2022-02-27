@@ -14,6 +14,8 @@ Since Launch date may have been a critical factor in determining success or fail
 ### Analysis of Outcomes Based on Goals
 Since Louise's Kickstarter Campaign was specifically in the "Play" subcategory, an analysis was conducted on outcomes of plays based on the pledge Goal. Once again using data from 2012 to 2017, the Goal amounts for play kickstarter campaigns were broken down into specific ranges to determine which had higher percentages of success or failure. As seen in the line chart below, success percentages were highest between 35000 to 44999 before significantly dropping. 
 
+![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
+
 ### Challenges and Difficulties Encountered
 
 ## Results
